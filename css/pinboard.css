@@ -1,0 +1,11 @@
+#pinboard { background-image:url('../images/Pinboard.png'); height:232px; width:597px; display:block; position:relative; left:75px; }
+
+#pinboard .yellow { height:77px; width:70px; font-family:cursive; font-size:10px; position: absolute; top:135px; left:46px; -webkit-transform: rotate(-7deg); -moz-transform: rotate(-7deg); -o-transform: rotate(-7deg);}
+#pinboard .purple { height:77px; width:70px; font-family:cursive; font-size:11px; position: absolute; top:50px; left:76px; -webkit-transform: rotate(5deg); -moz-transform: rotate(5deg); -o-transform: rotate(5deg);}
+#pinboard .blue { height:77px; width:70px; font-family:cursive; font-size:11px; position: absolute; top:92px; left:144px; -webkit-transform: rotate(-7deg); -moz-transform: rotate(-7deg); -o-transform: rotate(-7deg);}
+#pinboard .orange { height:77px; width:70px; font-family:cursive; font-size:11px; position: absolute; top:58px; left:244px; -webkit-transform: rotate(5deg); -moz-transform: rotate(5deg); -o-transform: rotate(5deg);}
+#pinboard .green { height:77px; width:70px; font-family:cursive; font-size:11px; position: absolute; top:142px; left:288px; -webkit-transform: rotate(-7deg); -moz-transform: rotate(-7deg); -o-transform: rotate(-7deg);}
+#pinboard .dblue { height:77px; width:70px; font-family:cursive; font-size:11px; position: absolute; top:47px; left:326px; -webkit-transform: rotate(-7deg); -moz-transform: rotate(-7deg); -o-transform: rotate(-7deg);}
+#pinboard .blue2 { height:77px; width:70px; font-family:cursive; font-size:11px; position: absolute; top:137px; left:415px; -webkit-transform: rotate(-7deg); -moz-transform: rotate(-7deg); -o-transform: rotate(-7deg);}
+#pinboard .green2 { height:77px; width:70px; font-family:cursive; font-size:11px; position: absolute; top:70px; left:440px; -webkit-transform: rotate(5deg); -moz-transform: rotate(5deg); -o-transform: rotate(5deg);}
+#pinboard .dblue2 { height:77px; width:70px; font-family:cursive; font-size:11px; position: absolute; top:40px; left:504px; -webkit-transform: rotate(-7deg); -moz-transform: rotate(-7deg); -o-transform: rotate(-7deg);}
